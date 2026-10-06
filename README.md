@@ -1,4 +1,4 @@
-# Power BI Procurement Analytics Dashboard
+# Einkaufsanalyse-Power-BI
 
 ## Project Overview
 
